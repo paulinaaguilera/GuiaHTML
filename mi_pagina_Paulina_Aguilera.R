@@ -1,5 +1,9 @@
 #TAREA NUMERO 3
 #Paulina Aguilera Madrid
+######################Letra A##################################
+#La diferencia de este tag "img" con los demas, es que este no necesita un cierre.
+
+
 #######################Letra B#################################
 #Borrar variables
 
